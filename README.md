@@ -43,3 +43,10 @@ se comparan los cambios
 [Evidencia! comparan los cambios](/assets/evidencia/CASO1-AceptanAmbosCambios.png)
 se deja el cambio con la suma que fue el primer merge que se realizo
 [Evidencia! mantiene la funcion suma](/assets/evidencia/CASO1-AceptanAmbosCambios.png)
+
+
+###Caso 3
+dentro de funcionalidad-C
+
+
+dentro de funcionalidad-D
