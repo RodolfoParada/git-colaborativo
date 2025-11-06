@@ -1,4 +1,7 @@
-// Modificación de A
-function funcionA() {
-    return 'Versión A';
+function funcionB(){
+    'Versión B';
+}
+
+function funcionA(){
+    'Versión A';
 }
